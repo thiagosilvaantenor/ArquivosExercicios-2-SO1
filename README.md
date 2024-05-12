@@ -72,9 +72,9 @@ arquivo em bytes.<br>
 * Lembrando 1 MB = ((bytes / 1024) / 1024)
 
 ## Status do projeto
-  🚧Em construção🚧
+  ✅Finalizado✅
 * Total de exercícios: 2
-* Exercícios completos na versão atual: 1
+* Exercícios completos na versão atual: 2
 
 ## Tecnologias
 - [Java](https://www.oracle.com/br/java/)
